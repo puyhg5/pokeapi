@@ -1,7 +1,5 @@
-var pokemonName = document.getElementById('name');
-var picture = document.getElementById('picture');
-var num = document.getElementById('num');
-var type= document.getElementById('type');
+'use strict';
+
 var numberOfPokemons = 50;
 
 function requestInfo(number) {
